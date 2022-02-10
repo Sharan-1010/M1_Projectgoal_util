@@ -1,6 +1,6 @@
 ﻿# Architecture
-## Structural diagram
 ## Behavioral diagram
+## Structural diagram
 ## Tools used
 
  - [Creately](https://creately.com/)
