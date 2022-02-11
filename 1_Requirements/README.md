@@ -29,12 +29,16 @@ ___
 ## 4W's and 1H
 **Who:**
 This project is for the people / a business organization for managing money.
+
 **What:**
 Cash management system will give the final saving done by the user after calculating all the income and outflow of money spent.
+
 **When:**
 When the users needs to manage their income and outflow of money.
+
 **Where:**
 It is used where the user needs for managing their money.
+
 **How:**
 This is fulfilled in very simple manner here as user need to enter their details like name and further go on by entering the incomes that they earned and expenses that he is making to finally go to the conclusion of the saving that he is doing in his day to day life.
 ___
