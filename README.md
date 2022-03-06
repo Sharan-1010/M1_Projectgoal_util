@@ -4,6 +4,8 @@
 
 [![Unit Testing](https://github.com/Sharan-1010/M1_Projectgoal_util/actions/workflows/unittest.yml/badge.svg)](https://github.com/Sharan-1010/M1_Projectgoal_util/actions/workflows/unittest.yml)
 [![CI](https://github.com/Sharan-1010/M1_Projectgoal_util/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Sharan-1010/M1_Projectgoal_util/actions/workflows/cppcheck.yml)
+
+[![Git Inspector](https://github.com/Sharan-1010/M1_Projectgoal_util/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/Sharan-1010/M1_Projectgoal_util/actions/workflows/gitinspector.yml)
 # Cash Management System
   Cash management system is for managing the flow of money of a person or a business organization. This project helps the user on their income and outcome of money. It is useful for money management.
    ___
