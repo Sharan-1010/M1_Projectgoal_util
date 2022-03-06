@@ -9,7 +9,7 @@
  
  - Easy tracking of money spent.
  - Multiple income/outcome can be tracked.
- - Multiple users can access.
+ 
 
   **Weaknesses**:
   
