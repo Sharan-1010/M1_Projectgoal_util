@@ -1,5 +1,6 @@
-https://app.codiga.io/public/user/github/Sharan-1010
-
+![codiga_grade](https://api.codiga.io/project/31046/score/svg)
+![codiga_grade](https://api.codiga.io/project/31046/status/svg)
+![codiga_grade](https://app.codiga.io/public/project/31046/M1_Projectgoal_util/dashboard)
 # Cash Management System
   Cash management system is for managing the flow of money of a person or a business organization. This project helps the user on their income and outcome of money. It is useful for money management.
    ___
