@@ -3,7 +3,7 @@ ___
 ## High Level Test Plan
 |Test ID | Description| Type of Test|
 |-- |-- |--|
-|HLT1|SPending cash|Requirement based|
+|HLT1|Spending cash|Requirement based|
 |HLT2|Balance |Scenario based|
 |HLT3|Avaialable Balance|Boundary based|
 ___
